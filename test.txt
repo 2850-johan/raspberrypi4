@@ -1,0 +1,8 @@
+3. Développement & Implémentation
+Développer un module de collecte de logs
+Mettre en place un système de monitoring en temps réel
+Intégrer un outil d’analyse de trafic réseau
+Déployer un antivirus ou un IDS/IPS (Intrusion Detection/Prevention System)
+Créer un script de détection d'anomalies
+
+Backlog 1
